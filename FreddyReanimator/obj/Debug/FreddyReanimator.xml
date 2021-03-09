@@ -1,0 +1,96 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FreddyReanimator
+</name>
+</assembly>
+<members>
+<member name="T:FreddyReanimator.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:FreddyReanimator.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:FreddyReanimator.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:FreddyReanimator.My.Resources.Resources._6046866929ac8042914346">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FreddyReanimator.My.Resources.Resources._6Skk">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FreddyReanimator.My.Resources.Resources.creepy_girl">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FreddyReanimator.My.Resources.Resources.door1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FreddyReanimator.My.Resources.Resources.evil">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FreddyReanimator.My.Resources.Resources.fred">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:FreddyReanimator.My.Resources.Resources.freddo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FreddyReanimator.My.Resources.Resources.freedo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FreddyReanimator.My.Resources.Resources.man">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FreddyReanimator.My.Resources.Resources.maxresdefault_900x540">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FreddyReanimator.My.Resources.Resources.night">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FreddyReanimator.My.Resources.Resources.three_door">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FreddyReanimator.My.Resources.Resources.V34p">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FreddyReanimator.My.Resources.Resources.V34p1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

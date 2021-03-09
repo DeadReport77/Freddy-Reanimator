@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FreddyReanimator", "FreddyReanimator.vbproj", "{18519177-11D0-4863-B77E-0B5BAB29F1E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18519177-11D0-4863-B77E-0B5BAB29F1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18519177-11D0-4863-B77E-0B5BAB29F1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18519177-11D0-4863-B77E-0B5BAB29F1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18519177-11D0-4863-B77E-0B5BAB29F1E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB37C325-93AA-41DE-BAE8-B64436C5D33C}
+	EndGlobalSection
+EndGlobal

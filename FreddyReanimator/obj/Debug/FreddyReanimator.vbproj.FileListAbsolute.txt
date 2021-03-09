@@ -1,0 +1,13 @@
+C:\Users\Leeraoy.Jenkins\source\repos\FreddyReanimator\bin\Debug\FreddyReanimator.exe.config
+C:\Users\Leeraoy.Jenkins\source\repos\FreddyReanimator\bin\Debug\FreddyReanimator.exe
+C:\Users\Leeraoy.Jenkins\source\repos\FreddyReanimator\bin\Debug\FreddyReanimator.pdb
+C:\Users\Leeraoy.Jenkins\source\repos\FreddyReanimator\bin\Debug\FreddyReanimator.xml
+C:\Users\Leeraoy.Jenkins\source\repos\FreddyReanimator\obj\Debug\FreddyReanimator.Choice.resources
+C:\Users\Leeraoy.Jenkins\source\repos\FreddyReanimator\obj\Debug\FreddyReanimator.Form1.resources
+C:\Users\Leeraoy.Jenkins\source\repos\FreddyReanimator\obj\Debug\FreddyReanimator.Form2.resources
+C:\Users\Leeraoy.Jenkins\source\repos\FreddyReanimator\obj\Debug\FreddyReanimator.Resources.resources
+C:\Users\Leeraoy.Jenkins\source\repos\FreddyReanimator\obj\Debug\FreddyReanimator.vbproj.GenerateResource.cache
+C:\Users\Leeraoy.Jenkins\source\repos\FreddyReanimator\obj\Debug\FreddyReanimator.vbproj.CoreCompileInputs.cache
+C:\Users\Leeraoy.Jenkins\source\repos\FreddyReanimator\obj\Debug\FreddyReanimator.exe
+C:\Users\Leeraoy.Jenkins\source\repos\FreddyReanimator\obj\Debug\FreddyReanimator.xml
+C:\Users\Leeraoy.Jenkins\source\repos\FreddyReanimator\obj\Debug\FreddyReanimator.pdb
