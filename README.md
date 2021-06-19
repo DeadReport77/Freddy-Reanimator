@@ -1,2 +1,2 @@
 # Freddy-Reanimator-Malware
-Very nasty Malware Go to YouTube and watch videos Freddy Reanimator Tutorial
+Very nasty Malware, I would recommend using it for shit's "n" giggles on a crappy useless computer.
