@@ -1,2 +1,2 @@
-# Freddy-Reanimator-Malware
-Very nasty Malware, I would recommend using it for shit's "n" giggles on a crappy useless computer.
+# Freddy-Reanimator
+This is only to be used for educational purposes. This Malware is teach programmers how to identify malicious code and combat it.
